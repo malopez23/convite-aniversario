@@ -70,7 +70,7 @@ export default function Home() {
             transition={{ delay: 0.7, duration: 0.6 }}
             className="text-lg md:text-xl text-gray-600 leading-relaxed px-4 max-w-xl mx-auto"
           >
-            Venha celebrar comigo mais um ano de vida! 
+            Venha celebrar comigo mais um ano de vida!  
             <br className="hidden md:block" />
             Vamos fazer essa festa ser <span className="font-semibold text-amber-700">inesquecível</span> juntos! 🥳
           </motion.p>
